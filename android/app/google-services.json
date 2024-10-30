@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363527007446",
+    "project_id": "teach-acd84",
+    "storage_bucket": "teach-acd84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363527007446:android:75424ac2b6dd23a5caed77",
+        "android_client_info": {
+          "package_name": "com.example.teach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgktIQlOpH6KPkmO4faenJ0crLR3VXs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
